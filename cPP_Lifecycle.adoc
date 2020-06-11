@@ -1,18 +1,18 @@
-= cPP Lifecycle for the _Coffee Maker_ iTC
+= cPP Lifecycle for the Companion Devices Working Group
 :showtitle:
 :toc:
 :toclevels: 3
 :table-caption: Table
 :imagesdir: images
-:revnumber: 0.2
-:revdate: 2020-04-09
+:revnumber: 0.1
+:revdate: 2020-06-10
 :xrefstyle: full
 
-:iTC-longname: Coffee Maker
-:iTC-shortname: CM-iTC
-:iTC-email: cm-itc-mailing-list@gmail.com
-:iTC-website: https://coffeemaker.github.io/
-:iTC-GitHub: https://github.com/coffeemaker/repository/
+:iTC-longname: Companion Devices
+:iTC-shortname: CD-WG
+:iTC-email: compdev-wg@freelists.org
+:iTC-website: https://CompDev-WG.github.io/
+:iTC-GitHub: https://github.com/CompDev-WG/
 
 == Introduction
 As part of the normal work of the {iTC-shortname}, new iterations of the cPP and SD will be released over time. Ideally, when a new version of the cPP is released, everyone would immediately follow the new version, but of course this is not possible as it takes time to transition to updated requirements.
@@ -95,7 +95,7 @@ While the iTC may specify these time periods for the transitions between version
 The practical implication of this transition period is that there should only be a 6 month overlap with multiple versions being available for use. The following diagram illustrates the time periods, showing the months from the initial release of v1.0 through to v2.0.
 
 [#transitions]
-[ditaa,"transition.png"]
+[ditaa,transition,png]
 ....
 /----------------------------\
 |  cPP v1.0     cRED         |

@@ -1,0 +1,101 @@
+= Companion Devices Working Group (CD-WG) Status <DATE>
+:showtitle:
+:table-caption: Table
+:revnumber: 0.1
+:revdate: 2020-06-10
+
+:iTC-longname: Companion Devices
+:iTC-shortname: CD-WG
+:iTC-email: compdev-wg@freelists.org
+:iTC-website: https://CompDev-WG.github.io/
+:iTC-GitHub: https://github.com/CompDev-WG/
+
+== General
+[cols=".^1,.^1,.^1"]
+|====
+
+|*Chair:*
+2.+|Shawn Geddis
+
+|*Project Manager:*
+2.+|Brian Wood
+
+|*Terms of Reference (TOR):*
+|Draft  
+|_Date_
+
+|*Essential Security Requirements (ESR):*
+|Draft
+|_Date_
+
+|*Security Problem Definition (SPD):*
+|_Draft_
+|_Date_
+
+|*Contact the iTC:*
+2.+|contact this iTC at {iTC-email}
+
+|*Collaboration Site(s):*
+2.+|{iTC-website}[GitHub Repository]
+
+{iTC-website}[{iTC-shortname} Website]
+
+
+|====
+
+== Scheme Information
+[cols="1,3"]
+|====
+
+|*Sponsoring Schemes:*
+|_Sponsoring schemes_
+
+|*Schemes actively involved in the WG:*
+|_List any other schemes that are actively engaged with the WG_
+
+|*Position statements:*
+|_Link to any position statement(s) that Schemes have issued_
+
+|*Endorsement statements:*
+|_Link to any endorsement statements that Schemes have issued_
+
+|====
+
+== Work items
+[cols="1,1,1",options="header"]
+|====
+
+|*Document:*
+|*Version:*
+|*Status & Date:*
+
+
+|
+|
+| 
+
+3.+|*Interpretations*
+
+
+|
+|
+| 
+
+3.+|*Interpretations*
+
+|
+|
+| 
+
+3.+|*Interpretations*
+
+|====
+
+== Other information
+[cols="1"]
+|====
+
+|
+
+|====
+

@@ -4,11 +4,14 @@
 :imagesdir: images
 :icons: font
 :revnumber: 0.1
-:revdate: 2019-06-19
+:revdate: 2020-06-10
 
-:iTC-longname: Coffee Maker
-:WG-shortname: CM-WG
-:iTC-email: cm-itc@gmail.com
+:WG-shortname: CD-WG
+:iTC-longname: Companion Devices
+:iTC-shortname: CD-WG
+:iTC-email: compdev-wg@freelists.org
+:iTC-website: https://CompDev-WG.github.io/
+:iTC-GitHub: https://github.com/CompDev-WG/
 
 <Month day, Year>
 
